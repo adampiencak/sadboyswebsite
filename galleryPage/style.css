@@ -13,7 +13,7 @@ html, body {
 
 body {
     background-image: url(../images/backgroundgallerygif.gif);
-    background-size: 200px;
+    background-size: cover;
 }
 
 #HOME {
